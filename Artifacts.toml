@@ -1,0 +1,459 @@
+[[CDE]]
+arch = "aarch64"
+git-tree-sha1 = "48b83e3a2d677c7bd481fa456d4dc426021cdfa4"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[CDE.download]]
+    sha256 = "f669d2e08ae05f18d035ed84451ebc28145641711255f02de7f9f1168ef43e1d"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[CDE]]
+arch = "aarch64"
+git-tree-sha1 = "6b99c861ea928f9f3123fd32f0ee8ac82ce026bc"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "435d470bb87ed0575a99d0683558e4d6889e6989288361c1ff5d84a9544b2ef0"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[CDE]]
+arch = "aarch64"
+git-tree-sha1 = "50a2d0392d1c54fd087dcac6514e95970600ae9c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "617205d6ac20a81ccda825206311dd2a0b4bf26aadf83fd981591d2ec453a008"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[CDE]]
+arch = "aarch64"
+git-tree-sha1 = "f62a0859d0e9c48bb775e452de6a0331cc936b1b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "de5254257970a21f4f3987282ce0dbfae7ea5baa2173d528ef2115b0ee3aa8f4"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[CDE]]
+arch = "aarch64"
+git-tree-sha1 = "1823d064c1d6b5dc67de710e121aa5c643c65a52"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "70fee617f0caedd00fc7281b5c0bb55276ce6da8c47802c094c318c025998eac"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[CDE]]
+arch = "aarch64"
+git-tree-sha1 = "e77d973fbc961722c7c0b904ee4fb0de8e489477"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "fde90c9430ecbd9b4be9b705d0fa78bc369128ba750f9b5276559b8f0bdea211"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[CDE]]
+arch = "aarch64"
+git-tree-sha1 = "b75498d387a9454ea53baf377e97bba729e68b84"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "6f16296200f1e7fe861a68956da9186961812e7119b103dae0429b0aa828b435"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[CDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "48471d9321892469c194cedbbac26cf1fdc46767"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "695ae149dc3a9358c7346d8e2b26d915810fd095c1e9f44e402152cd46faeb51"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[CDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "164f989cb603551818b9144130db467d541d4d7f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "8cff868aa838d9d90a45994536ba8b0e9b9c027b640e5af455685016bc244fbd"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[CDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "42e713a435d59ebf35090cc411ad29e4752e667b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "14548a44ecf305e8efdc1795b0e14cdbbc1049a6a0d5c021fb3ec319e34f672c"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[CDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3485fa1b07c921f205d2f7c6d1dd19e77a7db62a"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "b1fe25cdb3c20eac6aaee84933a438b0750e0c3b53334e1f78b67329d6e1cb2f"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[CDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c808eb2cd9f78c122412ab1ea206d6e255d6709"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "cdb398bcf4e2a199d9feb7cb6fe89b9ff9f4e0a1e06e1fc31bab90355a140111"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[CDE]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7989b5fec45e78535fbe622cd4d19d8ff32cc18f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "abdba755e606db00fd30d5b27b203b59215e24076d2b92839a3571d613bebf65"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[CDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ee30213ce2e5c681c2091388d9d83ec982f2c197"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "b5ad80bf36c6ac5401acef2497db49584ad8190f4caba20506f02529792d3041"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[CDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d41b8781bf1a88f2ab07a146c899bb784df73007"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "473231efb04d69adfd9aae20c0ac7c1a4587e30e175365e101eb1002e4a22794"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[CDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3766b0f0c129b42eac390e077c751aeb6c3a7a3f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "2b3a0604db9a780c68ee7e61a4297378c8a337799fbdc0fa6cb79d0b4f45b607"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[CDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba11aba6c675241b24401de2494a46fe95969384"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "41b80cdbfbcbd86f045fde93ecf7bee301f3e3425eca873916d6e9c503e94f5c"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[CDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4764b53876a4c5fdb0e841ccd0681ebea143d313"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "14ba5386013cecf04903906aad2cbfc9ea08f1f0504081a26dcbd9a3e4b65cd2"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[CDE]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1c3ddd05e694f7c11595045b40d7cf7f1f7f0278"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "7122a823af442943a59b45ec6411ea94156dfab99613abc85e054c6c9a8353e5"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "c5a0d7f6cfcf46c079b99b3d7bef0927cbb5675a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "a9b526d4def5afd264815308a57a21eb0b217ef8a80268e7b42928196d51bdc8"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "f3cbe1f809e1998869fb9803136dc468a57d8f65"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "4d697adce3a5d1f2d19d72c122005040a64e4c85fefbb5dbd14c21c1b21ba4d6"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "0e0e4b5e9f6732560925d0747607cd14fae27987"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "ae9b95828b99096988d9cf6cbf3b50e48c727e403844df5e1f746ffc8cfb665e"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "06cdde1947b9fa198c8e67918fabe6c816b86431"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "3b9c125060e64e6720c18ba02e329928ec53d481438f1343002222784a7f7be8"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-linux-musl-libgfortran3.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "cebb6b939e881cabcb6162c5c08c6fb1f02301e7"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "bef9e4e609f1d87b710a49fceb982eee4abb816d380cd923742df1333860d4e3"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-linux-musl-libgfortran4.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "f6e52ff0e8aa522e2cf99d524e68963e61054e0a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "a539203f073f3d93a6e893a508a851adddcf693c34d88633f225d76e0535a7ac"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-linux-musl-libgfortran5.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "1f01d58bf23a9b7ee32656144a41c9926f271754"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[CDE.download]]
+    sha256 = "22a52803694cee44ea76c03be0c7a6d43ec0cfc500dcde99d5d45d7557293b79"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "56f87ca53f2afb4263ac816707b94698c9563c3d"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[CDE.download]]
+    sha256 = "bb64c4fbe67f96999913872e1f018297e53f105e456412d5f2619031187d46dd"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[CDE]]
+arch = "i686"
+git-tree-sha1 = "da790282ed8e2dc6c1fd334cfe58df698db0fdf2"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[CDE.download]]
+    sha256 = "85bfd9cd7c69ce596bbf8acd7ca6374e34a3b702ed187852b9694c648c94da9e"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[CDE]]
+arch = "powerpc64le"
+git-tree-sha1 = "f891d0bc052c4586973564923e74b0cf75d23866"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "eaf6c2a91795146202f4338afca02c9ec2341f5d607eef53bc3c4579fa0fd6a2"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[CDE]]
+arch = "powerpc64le"
+git-tree-sha1 = "1d5cdbeba20a4b91150b9f7271328a01863eca46"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "ee1f56f368abce93a0ded9b946ccd969ba3be0b4480068f761fa8a9abfc94e6c"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[CDE]]
+arch = "powerpc64le"
+git-tree-sha1 = "194c759cf94ed3f5f764d705efbf273421919089"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "5ce8290b411c53b2d319488d1c7bb7de4df74c8696822a5fd3bbb99fe7878ff1"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "50f33cdcfad00c4ee5c68c6deaa0daedea4bb3e4"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[CDE.download]]
+    sha256 = "6f0fd1a767fcd83df8296abc894ab32124f4936d2bd191494126e9440ae82997"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "411c21ff697434d790cf0d4794f69580914fd7ed"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[CDE.download]]
+    sha256 = "47680adc15a4c5e6bd4dfb06086f04831c5a38a44ece170d7d4031c83457301f"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "9f9d18641b39f8f9ec0166709837b26c71740426"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[CDE.download]]
+    sha256 = "65fa0c090e5a484495fa1d5f9cbd73cede6051f0a60845f6c14a5b295698d939"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "16955d9269770095d161b0cfb6630d6150165102"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "c3052db1590a4fe4b6342a66ed07d793dd53511794530dba12660bc93d7b4944"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "095607c5011523e7486cb04c839f5528c07af1af"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "c59b7346e28cd0c3860301c0ae83ecef4cc3292e2f801028b9a7ddbff4a73dff"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "d57b7a5d64f3a000147ce462448acadf79ae2264"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "8b6060dd9b47cd44e93bf696465307f911de3eba26193110a067293988980e34"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "5bb503e45112319ddf147379cfda996febcfc351"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "9aff8d509a5bdf7d66dd5841e3aa4b70d038795408b151e9e528a2209184cd69"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "05e557fd3d9f653166ad8a7c61c7ba80571a83a4"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "90ef0e9800d637c6990fbefd82fc579086264526b31e1ff549879956cfad863b"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "1e682da8fdff6c781b5e91bac7c213522ead6a77"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[CDE.download]]
+    sha256 = "83f4528139c1017b46b7d4ff8a2bd3bbe67c77a003394b532c7bb28609d80ca1"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "7a2080ddd851a1f976255c073f872e174f0301a7"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[CDE.download]]
+    sha256 = "3f29252458cd3a659a6cdef7ee3ad0666360544a8693456f6a340f292c3ce1e2"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "bb955894f138ddefee5df1eccbc728bd03f962f1"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[CDE.download]]
+    sha256 = "e9ba74a8b6af355492db3038994372e48ae63d614519fe3eec6a0a7157037b12"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "0569d2bd5c1e4795f2091fe430ff4f16c7320bd4"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[CDE.download]]
+    sha256 = "66aaae539b97a450e89cfc3f2596fec5d692cc8d9f785e7ede52a3b1a0d4303a"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "0abe2c94e9bbc94c2c1c6ebc5f99420697ebecaa"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[CDE.download]]
+    sha256 = "e5eca0232cbd89f4667b4df2caa0f86dac52890f3682815898ad78386e2fd0fc"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "671a47ffee355db4b53971d20c0048db35e48903"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[CDE.download]]
+    sha256 = "dcd7c44a6707307572f15e59868fcc325bba501157ba985beb96513d1ad89de0"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[CDE]]
+arch = "x86_64"
+git-tree-sha1 = "43655770915f4058e1a93aa60627dff859e0e1b7"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[CDE.download]]
+    sha256 = "4d010f0698a0fa765d59a118caecfe569161cf8f513b3510d250560b5de5c965"
+    url = "https://github.com/JuliaBinaryWrappers/CDE_jll.jl/releases/download/CDE-v1.0.0+0/CDE.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
