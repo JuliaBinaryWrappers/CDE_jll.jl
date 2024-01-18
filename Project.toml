@@ -1,6 +1,6 @@
 name = "CDE_jll"
 uuid = "519a0aee-8577-56a6-9f9d-1e74151fa0e1"
-version = "1.0.1+0"
+version = "1.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
